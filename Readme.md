@@ -1,302 +1,71 @@
-# 🚀 S Abhilash | Portfolio Website
+# 🚀 S Abhilash | Professional Portfolio
 
-<div align="center">
+## Overview
 
-### Full Stack Developer • Data Engineer • Technology Enthusiast
+This repository contains the source code and assets for my personal portfolio website.
 
-A modern, responsive portfolio showcasing my projects, technical expertise, research contributions, and professional journey.
-
-📧 **Contact:** [sabhilash.0804@gmail.com](mailto:sabhilash.0804@gmail.com)
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/s-abhilash-3ba8aa283/
-
-💻 **GitHub:** https://github.com/SABHILASH0804
-
-</div>
+The portfolio serves as a centralized platform showcasing my professional journey, technical expertise, projects, certifications, research contributions, and career achievements.
 
 ---
 
-## 📖 Overview
+## About Me
 
-This portfolio serves as a central hub for my:
+I am a technology enthusiast with interests spanning:
 
-* Professional experience
-* Technical projects
-* Research publications
-* Certifications
-* Skills and expertise
-* Contact information
+* Full Stack Development
+* Data Engineering
+* Cloud Technologies
+* Artificial Intelligence
+* Data Analytics
 
-The website is designed with a strong focus on:
-
-✅ Modern UI/UX
-
-✅ Mobile responsiveness
-
-✅ Performance optimization
-
-✅ Recruiter-friendly navigation
-
-✅ Direct communication via EmailJS
+My focus is on building scalable solutions, solving real-world problems, and continuously expanding my technical capabilities.
 
 ---
 
-# ✨ Features
+## Featured Areas
 
-## 🏠 Home
+### Professional Experience
 
-* Dynamic introduction
-* Animated typing effect
-* Professional summary
+A summary of my academic background, internships, technical exposure, and industry experience.
 
-## 👨‍💻 About Me
+### Technical Skills
 
-* Technical background
-* Career journey
-* Areas of expertise
-
-## 🛠 Skills
-
-### Full Stack Development
-
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* Express.js
-* Flask
-* MySQL
-
-### Data & Analytics
-
-* Python
-* SQL
-* Snowflake
+* Full Stack Development
+* Database Technologies
+* Cloud Platforms
 * Data Engineering
 * Machine Learning
 
-### Cloud Technologies
+### Projects
 
-* AWS
-* Azure
-* Google Cloud Platform
+Highlighted projects demonstrating practical applications of:
 
-## 📄 Resume
+* Artificial Intelligence
+* Recommendation Systems
+* Data Visualization
+* Software Development
+* Problem Solving
 
-* Educational qualifications
-* Internships
-* Professional experience
-* Certifications
+### Research & Publications
 
-## 📂 Portfolio Projects
-
-### AI Career Guidance System
-
-AI-powered career recommendation platform with resume analysis and roadmap generation.
-
-### Course Recommendation Engine
-
-Graph Neural Network-based intelligent course recommendation system.
-
-### Disaster Forecast Dashboard
-
-Visualization platform integrating weather and disaster APIs.
-
-### Sudoku Solver
-
-Java-based recursive backtracking implementation.
-
-## 📬 Contact System
-
-Integrated using EmailJS.
-
-Visitors can:
-
-* Send messages directly from the website
-* Communicate privately
-* Receive direct responses via email
+Research activities, publications, and technical contributions in emerging technology domains.
 
 ---
 
-# 🖼️ Screenshots
+## Technologies Utilized
 
-## Home Page
-
-Add screenshot here
-
-```text
-assets/screenshots/home.png
-```
-
-## About Section
-
-Add screenshot here
-
-```text
-assets/screenshots/about.png
-```
-
-## Contact Section
-
-Add screenshot here
-
-```text
-assets/screenshots/contact.png
-```
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* EmailJS
+* GitHub Pages
 
 ---
 
-# 🏗️ Technology Stack
+## Contact
 
-| Category          | Technologies            |
-| ----------------- | ----------------------- |
-| Frontend          | HTML5, CSS3, JavaScript |
-| Styling           | Bootstrap 5             |
-| Animations        | AOS, Typed.js           |
-| Portfolio Effects | GLightbox, Isotope      |
-| Email Service     | EmailJS                 |
-| Hosting           | GitHub Pages            |
-| Version Control   | Git & GitHub            |
-
----
-
-# 📁 Project Structure
-
-```bash
-portfolio/
-│
-├── assets/
-│   ├── css/
-│   ├── img/
-│   ├── js/
-│   └── vendor/
-│
-├── index.html
-├── portfolio-details.html
-├── portfolio-details1.html
-├── portfolio-details2.html
-├── portfolio-details3.html
-│
-├── S_Abhilash_Resume.pdf
-│
-└── README.md
-```
-
----
-
-# ⚙️ Local Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/SABHILASH0804/ABHILASH_portfolio.git
-```
-
-Move into project directory:
-
-```bash
-cd ABHILASH_portfolio
-```
-
-Open:
-
-```bash
-index.html
-```
-
-or use VS Code Live Server.
-
----
-
-# 📧 EmailJS Configuration
-
-This portfolio uses EmailJS for contact form functionality.
-
-## Required Configuration
-
-### Create EmailJS Account
-
-https://www.emailjs.com
-
-### Configure
-
-* Email Service
-* Email Template
-* Public Key
-
-### Update
-
-```javascript
-emailjs.init("YOUR_PUBLIC_KEY");
-```
-
-```javascript
-emailjs.sendForm(
-  "YOUR_SERVICE_ID",
-  "YOUR_TEMPLATE_ID",
-  form
-);
-```
-
-### Template Variables
-
-```text
-{{from_name}}
-{{from_email}}
-{{subject}}
-{{message}}
-```
-
----
-
-# 🚀 Deployment
-
-## GitHub Pages
-
-Push code:
-
-```bash
-git add .
-git commit -m "Update portfolio"
-git push origin main
-```
-
-Enable:
-
-GitHub Repository
-
-→ Settings
-
-→ Pages
-
-→ Deploy from Branch
-
-→ main
-
-→ Save
-
----
-
-# 📚 Research & Publications
-
-* IEEE Indexed Publications
-* International Conference Presentations
-* AI & Career Guidance Research
-
----
-
-# 🎯 Future Enhancements
-
-* Dark Mode Toggle
-* Blog Section
-* Project Filtering Improvements
-* Analytics Dashboard
-* Visitor Tracking
-* Enhanced Contact Management
-
----
-
-# 🤝 Connect With Me
+For professional opportunities, collaborations, or networking, please use the contact section available on the portfolio website.
 
 ### LinkedIn
 
@@ -312,10 +81,14 @@ https://github.com/SABHILASH0804
 
 ---
 
-<div align="center">
+## Notes
 
-### Thank you for visiting my portfolio!
+This repository represents a personal portfolio project intended for professional presentation and demonstration purposes.
 
-⭐ If you found this project interesting, feel free to star the repository.
+All content, assets, and project descriptions remain the intellectual property of the repository owner unless otherwise specified.
 
-</div>
+---
+
+### Thank You
+
+Thank you for taking the time to visit and explore my portfolio.
