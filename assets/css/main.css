@@ -1062,6 +1062,30 @@ section,
     }
 }
 
+@media (max-width: 768px){
+
+  .floating-profile{
+      width:90px !important;
+      height:90px !important;
+  }
+
+  .profile-1{
+      top:-20px;
+      right:0;
+  }
+
+  .profile-2{
+      left:-10px;
+      bottom:20px;
+  }
+
+  .profile-3{
+      right:-10px;
+      bottom:10px;
+  }
+
+}
+
 .star-field{
     position:absolute;
     inset:0;
