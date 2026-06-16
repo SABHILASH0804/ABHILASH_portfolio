@@ -1062,30 +1062,35 @@ section,
     }
 }
 
-@media (max-width: 768px){
+@media (max-width:768px){
+
+  .profile-image-wrapper{
+      min-height:380px;
+      overflow:visible !important;
+  }
 
   .floating-profile{
-      width:90px !important;
-      height:90px !important;
+      width:70px !important;
+      height:70px !important;
+      opacity:1 !important;
+      transform:scale(1) !important;
   }
 
   .profile-1{
-      top:-20px;
-      right:0;
+      top:-10px;
+      right:10px;
   }
 
   .profile-2{
-      left:-10px;
+      left:10px;
       bottom:20px;
   }
 
   .profile-3{
-      right:-10px;
-      bottom:10px;
+      right:10px;
+      bottom:20px;
   }
-
 }
-
 .star-field{
     position:absolute;
     inset:0;
